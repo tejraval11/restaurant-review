@@ -78,8 +78,6 @@ Stored locally on the server
 
 URLs are dynamically created and served to frontend
 
-📸 Screenshots
-Add relevant screenshots here to demonstrate the UI and functionality
 
 📚 Future Enhancements
 Integrate cloud-based image storage (e.g., AWS S3)
